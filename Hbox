@@ -1,0 +1,10 @@
+Group root = new Group();
+HBox panel = new HBox();
+HBox panel1 = new HBox();
+HBox panel2 = new HBox();
+HBox panel3 = new HBox();
+HBox panel4 = new HBox();
+HBox panel5 = new HBox();
+HBox panel6 = new HBox();
+        
+TilePane panel7 = new TilePane();
