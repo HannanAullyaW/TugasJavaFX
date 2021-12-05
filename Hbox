@@ -1,10 +1,16 @@
-Group root = new Group();
-HBox panel = new HBox();
-HBox panel1 = new HBox();
-HBox panel2 = new HBox();
-HBox panel3 = new HBox();
-HBox panel4 = new HBox();
-HBox panel5 = new HBox();
-HBox panel6 = new HBox();
+Label LBfirstName = new Label("First Name");
+Label LBlastName = new Label("Last Name");
+Label LBemail = new Label("Email Address");
+Label LBcontc = new Label("Contact No");
+Label LBpw = new Label("Password");
+Label LBcpw = new Label("Confirm Password");
         
-TilePane panel7 = new TilePane();
+TextField TFfirstName = new TextField();
+TextField TFlastName = new TextField();
+TextField TFeamil = new TextField(); 
+TextField TFcontc = new TextField();
+PasswordField TFpw = new PasswordField();
+PasswordField TFcpw = new PasswordField(); 
+        
+Button submit = new Button("Register");        
+Pane root = new Pane();
