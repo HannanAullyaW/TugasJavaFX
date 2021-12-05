@@ -1,0 +1,6 @@
+Scene scene = new Scene(root,800,500);
+scene.setFill(Color.BLUE);
+primaryStage.setScene(scene);
+primaryStage.show();       
+primaryStage.setTitle("Register");
+primaryStage.setAlwaysOnTop(true);
