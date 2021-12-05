@@ -1,0 +1,6 @@
+root.getChildren().addAll(rect,panel,panel1, panel2, panel3, panel4, panel5, panel6, panel7);        
+Scene scene = new Scene(root, 300, 250);
+scene.setFill(Color.WHITE);        
+primaryStage.setTitle("Test JavaFX");
+primaryStage.setScene(scene);
+primaryStage.show();
