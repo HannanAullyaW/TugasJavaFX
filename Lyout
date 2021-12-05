@@ -1,0 +1,33 @@
+LBfirstName.setLayoutX(95);
+        LBlastName.setLayoutX(95);
+        LBemail.setLayoutX(75);
+        LBfirstName.setLayoutY(50);
+        LBlastName.setLayoutY(100);
+        LBemail.setLayoutY(150);
+        
+        LBcontc.setLayoutX(90);
+        LBpw.setLayoutX(105);
+        LBcpw.setLayoutX(50);
+        LBcontc.setLayoutY(200);
+        LBpw.setLayoutY(250);
+        LBcpw.setLayoutY(300);
+        
+        
+        TFfirstName.setLayoutX(200);
+        TFlastName.setLayoutX(200);
+        TFeamil.setLayoutX(200);
+        TFfirstName.setLayoutY(50);
+        TFlastName.setLayoutY(100);
+        TFeamil.setLayoutY(150);  
+        
+        TFcontc.setLayoutX(200);
+        TFpw.setLayoutX(200);
+        TFcpw.setLayoutX(200);
+        TFcontc.setLayoutY(200);
+        TFpw.setLayoutY(250);
+        TFcpw.setLayoutY(300); 
+        
+        submit.setStyle("-fx-base: Blue");
+        
+        submit.setLayoutX(250);
+        submit.setLayoutY(350);
